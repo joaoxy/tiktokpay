@@ -289,7 +289,7 @@ function setupRegistrationPage() {
 // Setup event listeners for video page
 function setupVideoPage() {
   document.querySelector('.unlock-btn').addEventListener('click', () => {
-    window.location.href = 'https://go.tribopay.com.br/jox2w4ocgw';
+    window.location.href = 'https://go.disruptybr.com.br/mphsjrzsmr';
   });
 
 }
